@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ConstrainL"
+rootProject.name = "linkqi"
 include ':app'
